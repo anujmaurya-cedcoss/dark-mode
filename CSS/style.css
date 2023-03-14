@@ -1,0 +1,12 @@
+#light-mode {
+    background-color: white;
+    width : 80px;
+    height : 40px;
+}
+
+#dark-mode {
+    background-color: black;
+    color: white;
+    width : 80px;
+    height : 40px
+}
